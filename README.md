@@ -2,7 +2,9 @@ Hey!
 
 My name is bubu07, and I like coding, mostly game development!
 
-Languages:
+***
+
+Languages I primarily use:
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6911e929-d665-4f22-a4c5-f3a7c58544fb" />
 
@@ -12,9 +14,9 @@ Languages:
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c0dce595-2309-46df-ad3b-ea4832f69fac" />
 
+***
 
-
-Game engines:
+Game engines I primarily use:
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e6cb456-5d09-48e2-b8fc-597e3116d137" />
 
@@ -22,5 +24,8 @@ Game engines:
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d7d22b59-aed1-446e-8984-d54342b63970" />
 
+
+***
+Oh no! The Snake is eating my contributions!
 
 ![github-user-contribution](https://github.com/user-attachments/assets/273c14e3-c069-42a8-96f4-a7e146a615a8)
