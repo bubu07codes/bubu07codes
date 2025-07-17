@@ -1,3 +1,6 @@
+Hey!
+My name is bubu07, and I like coding, mostly game development!
+
 Languages:
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6911e929-d665-4f22-a4c5-f3a7c58544fb" />
