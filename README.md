@@ -26,6 +26,10 @@ Game engines I primarily use:
 
 
 ***
-Oh no! The Snake is eating my contributions!
+Oh no! The Snake is eating my contributions! (updated live)
 
-![github-user-contribution](https://github.com/user-attachments/assets/273c14e3-c069-42a8-96f4-a7e146a615a8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake.svg">
+</picture>
