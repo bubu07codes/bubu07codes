@@ -1,13 +1,11 @@
-name: generate animation of snake readme
+name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "* * * * *" 
   
   workflow_dispatch:
   
-  # run on every push on the main branch
   push:
     branches:
       - main
@@ -23,7 +21,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bubu07codes
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
