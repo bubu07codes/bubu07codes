@@ -1,6 +1,6 @@
-# Hey!
+# Bubu07
 
-My name is bubu07, and I like coding, mostly game development!
+<img width="100" height="50" alt="image" src="https://img.shields.io/github/stars/bubu07codes?style=for-the-badge" />                                                                                                                   <img width="132" height="70" alt="image" src="https://img.shields.io/github/followers/bubu07codes?style=for-the-badge" />
 
 ***
 
