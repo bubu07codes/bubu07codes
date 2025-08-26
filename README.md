@@ -1,36 +1,34 @@
-# Bubu07
-
-<img width="100" height="50" alt="stars" src="https://img.shields.io/github/stars/bubu07codes?style=for-the-badge" />                                                                                                                   <img width="132" height="70" alt="flws" src="https://img.shields.io/github/followers/bubu07codes?style=for-the-badge" />
-***
-
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbubu07codes&s=40&c=a600ff&bg=00000000&no=1&ff=electrolize&tb=Page+visitors%3A+&ta=)
-
-Languages I primarily use:
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6911e929-d665-4f22-a4c5-f3a7c58544fb" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d2fc9ab6-3478-4aff-bade-07f3f7b18967" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b11196b-6808-42a1-b209-39fab1dfcf18" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c0dce595-2309-46df-ad3b-ea4832f69fac" />
+<div align="center">
+  <samp>
+    <b>bubu07</b>    
+  </samp>
+</div>
 
 ***
 
-Game engines I primarily use:
+<div align="center">
+  <samp>
+    <img width="100" height="50" alt="stars" src="https://img.shields.io/github/stars/bubu07codes?style=for-the-badge" />                                                                                                                   <img width="132" height="70" alt="flws" src="https://img.shields.io/github/followers/bubu07codes?style=for-the-badge" />
+    </samp>
+</div>
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e6cb456-5d09-48e2-b8fc-597e3116d137" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9388eadc-4ff7-49a0-b5fd-f0c594da1b1c" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d7d22b59-aed1-446e-8984-d54342b63970" />
-
+<div align="center">
+  <samp>  
+    
+<img width="200" height="50" alt="visits" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbubu07codes&s=40&c=ffffff&bg=00000000&no=2&ff=electrolize&tb=Page+visitors%3A+&ta="/>
+    </samp>
+</div>
 
 ***
-Oh no! The Snake is eating my contributions! (updated live)
+<div align="center">
+  <samp>  
+    Oh no! The Snake is eating my contributions! (updated live)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bubu07codes/bubu07codes/output/github-contribution-grid-snake.svg">
 </picture>
+        </samp>
+</div>
+
