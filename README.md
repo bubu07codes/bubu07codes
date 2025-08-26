@@ -1,8 +1,9 @@
 # Bubu07
 
 <img width="100" height="50" alt="stars" src="https://img.shields.io/github/stars/bubu07codes?style=for-the-badge" />                                                                                                                   <img width="132" height="70" alt="flws" src="https://img.shields.io/github/followers/bubu07codes?style=for-the-badge" />
-
 ***
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbubu07codes&s=40&c=a600ff&bg=00000000&no=1&ff=electrolize&tb=Page+visitors%3A+&ta=)
 
 Languages I primarily use:
 
