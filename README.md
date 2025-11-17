@@ -15,9 +15,6 @@
 <div align="center">
   <samp>  
     
-<img width="200" height="50" alt="visits" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbubu07codes&s=40&c=ffffff&bg=00000000&no=2&ff=electrolize&tb=Page+visitors%3A+&ta="/>
-    </samp>
-</div>
 
 ***
 <div align="center">
