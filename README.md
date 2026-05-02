@@ -1,20 +1,11 @@
-<div align="center">
+<div align="left">
   <samp>
-    <b>bubu07</b>    
+    Hi, my name is Bubu, and I like to code.
+    <br>
+    I specialize in creating games in C#.
+    Check out my games: https://bubu07.itch.io
   </samp>
 </div>
-
-***
-
-<div align="center">
-  <samp>
-    <img width="100" height="50" alt="stars" src="https://img.shields.io/github/stars/bubu07codes?style=for-the-badge" />                                                                                                                   <img width="132" height="70" alt="flws" src="https://img.shields.io/github/followers/bubu07codes?style=for-the-badge" />
-    </samp>
-</div>
-
-<div align="center">
-  <samp>  
-    
 
 ***
 <div align="center">
